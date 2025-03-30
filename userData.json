@@ -1,6 +1,6 @@
 {
-  "user1": {
-    "password": "password123",
+  "redcode": {
+    "password": "redcode",
     "expired": "2025-04-30"
   },
   "user2": {
