@@ -1,16 +1,10 @@
 {
-  "users": {
-    "user1": {
-      "password": "password123",
-      "expired": 1740979200
-    },
-    "user2": {
-      "password": "mypassword",
-      "expired": 1743571200
-    },
-    "admin": {
-      "password": "supersecret",
-      "expired": 0
-    }
+  "user1": {
+    "password": "password123",
+    "expired": "2025-04-30"
+  },
+  "user2": {
+    "password": "mypassword",
+    "expired": "2025-05-10"
   }
 }
