@@ -1,10 +1,3 @@
 {
-  "redcode": {
-    "password": "redcode",
-    "expired": "2025-04-30"
-  },
-  "user2": {
-    "password": "mypassword",
-    "expired": "2025-05-10"
-  }
+    "status": "online"
 }
